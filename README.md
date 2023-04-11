@@ -1,3 +1,4 @@
+
 ## **Who is person this ...**
 
 **💗 Hi, I'm Cat Vy - a small happiness literally**
@@ -15,8 +16,6 @@
 ---
 ## **Top technologies**
 
-## <br>
-
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
@@ -27,7 +26,6 @@
 ---
 
 ## **What have I contributed to the industries I've been pursuing?**
-## <br>
 ### **In 2019 - Explore**
 **🔥 Kathy worked as a designer for [The Middle Man](https://www.facebook.com/themiddlemanproject) project** 
 
