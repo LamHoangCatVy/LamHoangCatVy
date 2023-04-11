@@ -84,12 +84,9 @@
 
 # TOBECONTINUED
 
-## <br>
-
 ---
-## <br>
+
 ## **Know me better, huh?**
-## <br>
 ## [![Mail Badge](https://img.shields.io/badge/-LamHoangCatVy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:catvyisstudying@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@catvy24-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/catvy24)  [![Faebook Badge](https://img.shields.io/badge/-CatVy-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](facebook.com/LamHoangCatVy)
 
 
