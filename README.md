@@ -31,7 +31,7 @@
 
 **🔥 Kathy was a [propagandist](http://thpthanthuyen.bacninh.edu.vn/tin-tuc-thong-bao/tin-tuc-su-kien/hoat-dong-tuyen-truyen-huong-ung-chien-dich-lam-cho-the-gioi.html) <small>(Pic 1 is me)</small>**
 
-**🔥 Kathy was also [a runner-up 2nd in a contest called "Dat Hoc Kinh Bac"](http://thpthanthuyen.bacninh.edu.vn/hoat-dong/hoat-dong-chuyen-mon/to-toan/lam-hoang-cat-vy-11a10-ve-nhi-vong-loai-so-9-san-choi-dat-ho.html) <small>( Based on the [Duong len dinh Oylmpia](https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%91%E1%BB%89nh_Olympia) TV program format )  </small>**
+**🔥 Kathy was also [a runner-up 2nd in a contest called "Dat Hoc Kinh Bac"](http://thpthanthuyen.bacninh.edu.vn/hoat-dong/hoat-dong-chuyen-mon/to-toan/lam-hoang-cat-vy-11a10-ve-nhi-vong-loai-so-9-san-choi-dat-ho.html) <small>(Based on the [Duong len dinh Oylmpia](https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%91%E1%BB%89nh_Olympia) TV program format)</small>**
 ## <br>
 ### **In 2020 - Covid, Pause, Reshape**
 ## <br>
