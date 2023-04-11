@@ -73,7 +73,7 @@
 ## <br>
 
 3. **University of Michigan**
-- [Programming for Everybody (Getting Started with Python](https://www.coursera.org/account/accomplishments/verify/YYY8VJ7B7V94)
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/YYY8VJ7B7V94)
 
 ## <br>
 
