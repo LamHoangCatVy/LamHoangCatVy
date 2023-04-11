@@ -1,5 +1,5 @@
 
-## **Who is person this ...**
+## **Who is this person ...**
 
 💗 Hi, I'm Cat Vy - a small happiness literally.
 
