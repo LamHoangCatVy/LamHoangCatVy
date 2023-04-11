@@ -34,6 +34,7 @@
 **🔥 Kathy was also [a runner-up 2nd in a contest called "Dat Hoc Kinh Bac"](http://thpthanthuyen.bacninh.edu.vn/hoat-dong/hoat-dong-chuyen-mon/to-toan/lam-hoang-cat-vy-11a10-ve-nhi-vong-loai-so-9-san-choi-dat-ho.html) <small>(Based on the [Duong len dinh Oylmpia](https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%91%E1%BB%89nh_Olympia) TV program format)</small>**
 ## <br>
 ### **In 2020 - Covid, Pause, Reshape**
+## <br>
 ### **In 2021 - Warm-up Again**
 **🔥 Kathy started studying UX/UI and finished this project.**
 
