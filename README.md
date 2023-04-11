@@ -40,7 +40,7 @@
 
 🔥 Kathy also wrote copywriting posts for a coffee shop next door.
 
-🔥 Kathy then started studying HTML, CSS on Freecodecamp with these project** <small>**(I did remake it for this portfolio)</small>
+🔥 Kathy then started studying HTML, CSS on Freecodecamp with these project. <small>(I did remake it for this portfolio)</small>
 ## <br>
 ### **In 2022 - Start a Marathon**
 🔥 Kathy hosted in a program named ["Buddies not Bullies"](https://fb.watch/jQk-nMkhTy/) sponsored by U.S Embassy which aims to enhance teenagers' awareness about cyberbullying
