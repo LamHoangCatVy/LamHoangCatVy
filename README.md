@@ -49,7 +49,7 @@
 
 **🔥 Kathy was also in an organizing committee of [International Conference on Raising Cybersecurity Awareness among Teenagers](https://www.facebook.com/events/1294327447646672/?ref=newsfeed) sponsored by the Royal Thai Consulate**
 ## <br>
-### **In Q1-2023 -- My Booming Phase**
+### **In Q1-2023 - My Booming Phase**
 **I did finished courses by:**
 
 1. **Meta (Facebook)**
