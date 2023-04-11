@@ -44,7 +44,6 @@
 **🔥Kathy then started studying HTML, CSS on Freecodecamp with these project** <small>**(I did remake it for this portfolio)**</small>
 ## <br>
 ### **In 2022 - Start a Marathon**
-## <br>
 **🔥 Kathy hosted in a program named ["Buddies not Bullies"](https://fb.watch/jQk-nMkhTy/) sponsored by U.S Embassy which aims to enhance teenagers' awareness about cyberbullying**
 
 <small><This is a small program in a project named [The Psymics](https://www.facebook.com/thepsymics) - which aims to help teenagers explore their psychology during their teenage years></small>
@@ -52,7 +51,6 @@
 **🔥 Kathy was also in an organizing committee of [International Conference on Raising Cybersecurity Awareness among Teenagers](https://www.facebook.com/events/1294327447646672/?ref=newsfeed) sponsored by the Royal Thai Consulate**
 ## <br>
 ### **In Q1-2023 -- My Booming Phase**
-## <br>
 **I did finished courses by:**
 
 1. **Meta (Facebook)**
