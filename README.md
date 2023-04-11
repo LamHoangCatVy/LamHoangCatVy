@@ -5,7 +5,7 @@
 
 💗 But just call me Kathy, and Kathy is your women fellow in tech!
 
-⚡ Kathy is currently working as designer, copywriter, and developer.*
+⚡ Kathy is currently working as designer, copywriter, and developer.
 
 ✨ Kathy was also a propagandist who helps students raise awareness about environmental protection issues, as well as the harmful effects of cigarettes and drugs
 
