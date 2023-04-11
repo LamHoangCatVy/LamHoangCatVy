@@ -7,7 +7,7 @@
 
 **⚡ Kathy's currently working as designer, copywriter, and developer.** 
 
-<small>✨Little spoil: At high school, she is also a propagandist who helps students raise awareness about environmental protection issues, as well as the harmful effects of cigarettes and drugs</small>
+**✨Little spoil: At high school, she was also a propagandist who helps students raise awareness about environmental protection issues, as well as the harmful effects of cigarettes and drugs**
 
 **🌱 Kathy is seeking for knowledge, ideas, and opportunities.**
 
