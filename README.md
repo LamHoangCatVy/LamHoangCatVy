@@ -1,17 +1,17 @@
 
 ## **Who is person this ...**
 
-**💗 Hi, I'm Cat Vy - a small happiness literally**
+💗 Hi, I'm Cat Vy - a small happiness literally**
 
-**💗 But just call me Kathy, and Kathy is your women fellow in tech!**
+💗 But just call me Kathy, and Kathy is your women fellow in tech!**
 
-**⚡ Kathy is currently working as designer, copywriter, and developer.** 
+⚡ Kathy is currently working as designer, copywriter, and developer.** 
 
-**✨ Kathy was also a propagandist who helps students raise awareness about environmental protection issues, as well as the harmful effects of cigarettes and drugs**
+✨ Kathy was also a propagandist who helps students raise awareness about environmental protection issues, as well as the harmful effects of cigarettes and drugs**
 
-**🌱 Kathy is seeking for knowledge, ideas, and opportunities.**
+🌱 Kathy is seeking for knowledge, ideas, and opportunities.**
 
-**🎤 Kathy can sing, play guitar, piano, and RAP**
+🎤 Kathy can sing, play guitar, piano, and RAP**
 
 ---
 ## **Top technologies**
@@ -27,27 +27,27 @@
 
 ## **What have I contributed to the industries I've been pursuing?**
 ### **In 2019 - Explore**
-**🔥 Kathy worked as a designer for [The Middle Man](https://www.facebook.com/themiddlemanproject) project** 
+🔥 Kathy worked as a designer for [The Middle Man](https://www.facebook.com/themiddlemanproject) project** 
 
-**🔥 Kathy was a [propagandist](http://thpthanthuyen.bacninh.edu.vn/tin-tuc-thong-bao/tin-tuc-su-kien/hoat-dong-tuyen-truyen-huong-ung-chien-dich-lam-cho-the-gioi.html) <small>(Pic 1 is me)</small>**
+🔥 Kathy was a [propagandist](http://thpthanthuyen.bacninh.edu.vn/tin-tuc-thong-bao/tin-tuc-su-kien/hoat-dong-tuyen-truyen-huong-ung-chien-dich-lam-cho-the-gioi.html) <small>(Pic 1 is me)</small>**
 
-**🔥 Kathy was also [a runner-up 2nd in a contest called "Dat Hoc Kinh Bac"](http://thpthanthuyen.bacninh.edu.vn/hoat-dong/hoat-dong-chuyen-mon/to-toan/lam-hoang-cat-vy-11a10-ve-nhi-vong-loai-so-9-san-choi-dat-ho.html) <small>(Based on the [Duong len dinh Oylmpia](https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%91%E1%BB%89nh_Olympia) TV program format)</small>**
+🔥 Kathy was also [a runner-up 2nd in a contest called "Dat Hoc Kinh Bac"](http://thpthanthuyen.bacninh.edu.vn/hoat-dong/hoat-dong-chuyen-mon/to-toan/lam-hoang-cat-vy-11a10-ve-nhi-vong-loai-so-9-san-choi-dat-ho.html) <small>(Based on the [Duong len dinh Oylmpia](https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_l%C3%AAn_%C4%91%E1%BB%89nh_Olympia) TV program format)</small>**
 ## <br>
 ### **In 2020 - Covid, Pause, Reshape**
 ## <br>
 ### **In 2021 - Warm-up Again**
-**🔥 Kathy started studying UX/UI and finished this project.**
+🔥 Kathy started studying UX/UI and finished this project.**
 
-**🔥 Kathy also wrote copywriting posts for a coffee shop next door.**
+🔥 Kathy also wrote copywriting posts for a coffee shop next door.**
 
-**🔥 Kathy then started studying HTML, CSS on Freecodecamp with these project** <small>**(I did remake it for this portfolio)**</small>
+🔥 Kathy then started studying HTML, CSS on Freecodecamp with these project** <small>**(I did remake it for this portfolio)**</small>
 ## <br>
 ### **In 2022 - Start a Marathon**
-**🔥 Kathy hosted in a program named ["Buddies not Bullies"](https://fb.watch/jQk-nMkhTy/) sponsored by U.S Embassy which aims to enhance teenagers' awareness about cyberbullying**
+🔥 Kathy hosted in a program named ["Buddies not Bullies"](https://fb.watch/jQk-nMkhTy/) sponsored by U.S Embassy which aims to enhance teenagers' awareness about cyberbullying**
 
 <small><This is a small program in a project named [The Psymics](https://www.facebook.com/thepsymics) - which aims to help teenagers explore their psychology during their teenage years></small>
 
-**🔥 Kathy was also in an organizing committee of [International Conference on Raising Cybersecurity Awareness among Teenagers](https://www.facebook.com/events/1294327447646672/?ref=newsfeed) sponsored by the Royal Thai Consulate**
+🔥 Kathy was also in an organizing committee of [International Conference on Raising Cybersecurity Awareness among Teenagers](https://www.facebook.com/events/1294327447646672/?ref=newsfeed) sponsored by the Royal Thai Consulate**
 ## <br>
 ### **In Q1-2023 - My Booming Phase**
 **I did finished courses by:**
