@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kathy</h1>
 <h3 align="center">A passionate frontend developer from Vietnam. I'm currently thriving to learn more about backend site.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamhoangcatvy&label=Profile%20views&color=0e75b6&style=flat" alt="lamhoangcatvy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamhoangcatvy" alt="lamhoangcatvy" /></a> </p>
 
 - 🔭 I’m currently working on **Expense Tracker**
@@ -17,6 +15,7 @@
 
 - ⚡ Fun fact **People get mad because of my curiosity!**
 
+<img align="right" alt="Coding" width="400" height="400" src="https://www.facebook.com/photo?fbid=3680692075585974&set=a.1376942849294253" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lam-hoang-cat-vy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lam-hoang-cat-vy/" height="30" width="40" /></a>
