@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamhoangcatvy" alt="lamhoangcatvy" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/ryo-ma/github-profile-trophy](https://budget-tracker-app-liard.vercel.app/)">**Expense Tracker**</a>
+- 🔭 I’m currently working on <a href="https://budget-tracker-app-liard.vercel.app" target="_blank" rel="noreferrer"">**Expense Tracker**</a>
 
 - 🌱 I’m currently learning **MERN Stack**
 
