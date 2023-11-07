@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamhoangcatvy" alt="lamhoangcatvy" /></a> </p>
 
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m currently working on https:<a href="[https://github.com/ryo-ma/github-profile-trophy](https://budget-tracker-app-liard.vercel.app/)">**Expense Tracker**
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **People get mad because of my curiosity!**
 
-<img align="right" alt="Coding" width="400" height="400" src="https://www.facebook.com/photo?fbid=3680692075585974&set=a.1376942849294253" />
+<img align="right" alt="Coding" width="400" height="400" src="https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/370561548_3680692072252641_8897976118647758008_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ir357Ip_zpMAX8jemJr&_nc_ht=scontent-hkg4-1.xx&oh=00_AfAxXqMwprw5Bt3wAvOlxNhFc9UD7zmtsmu1avPvfdV4Jg&oe=654E5387" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lam-hoang-cat-vy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lam-hoang-cat-vy/" height="30" width="40" /></a>
